@@ -1,4 +1,16 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
 /* top players style */
+
+/* body */
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f3f1ff;
+}
+
+
 .players{
     display: grid;
     grid-template-columns: repeat(3, 1fr) ;
